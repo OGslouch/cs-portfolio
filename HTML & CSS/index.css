@@ -1,0 +1,74 @@
+
+body {
+    background-color:black ;
+    
+}
+
+body {
+    color:white;
+}
+
+.imgdes {float:left;
+margin: -10px 10px 7px 8px;
+border:1px double;
+}
+
+
+.des {
+    font-family:"fantasy";
+    font-size:120%;
+}
+
+.amillroe {
+    font-family: "fantasy"
+}
+
+.body1 {
+    border-top:4px solid;
+    border-right:4px double;
+    border-left:4px double;
+    border-bottom:4px solid;
+    border-color:white;
+    border-width:4px;
+}
+
+
+table {
+    border:6px white;
+}
+
+
+.din {
+    z-index:-1;
+}
+.dip {
+    margin-top: 130px;
+    margin-left: 300px;
+    float:left;
+} 
+
+.dip {
+    z-index:+1; 
+}
+
+.dip {
+    padding:0px;
+}
+
+.hek {
+    Color:white;
+    border:1px hidden;
+    border-radius: 20px;
+    padding:5px;
+}
+
+.hek:hover {
+    color:black;
+    background-color: white;
+}
+
+
+
+body {
+    background-image: url("giphy.gif");
+}
